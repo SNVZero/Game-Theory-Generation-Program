@@ -1,0 +1,6 @@
+C:\Users\Pain\PycharmProjects\GameTheory\venv\Lib\site-packages\nashpy\algorithms\support_enumeration.py:259: RuntimeWarning: 
+An even number of (2) equilibria was returned. This
+indicates that the game is degenerate. Consider using another algorithm
+to investigate.
+                  
+  warnings.warn(warning, RuntimeWarning)
